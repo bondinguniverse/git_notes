@@ -1,2 +1,2 @@
-# git_notes
+# GIT Notes
 GIT Notes
